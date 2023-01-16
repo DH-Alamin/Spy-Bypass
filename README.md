@@ -4,10 +4,12 @@ File cloning bypass.
 
 #Run👇
 
+rm -rf Spy-Bypass
+
 git clone https://github.com/DH-Alamin/Spy-Bypass
 
 cd Spy-Bypass
 
 ls
 
-python spy.py
+python run.py
